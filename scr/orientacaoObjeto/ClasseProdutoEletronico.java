@@ -2,7 +2,7 @@
 em seguida crie um objeto produto eletrônico, defina as instancias deste objeto e apresente 
 as informações deste objeto no console..*/
 
-package AtividadesJava;
+package orientacaoObjeto;
 
 public class ClasseProdutoEletronico {
 

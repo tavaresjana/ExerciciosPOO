@@ -1,4 +1,4 @@
-package AtividadesJava;
+package orientacaoObjeto;
 
 public class ObjetoAviao {
 

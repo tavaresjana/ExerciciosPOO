@@ -1,6 +1,4 @@
-package AtividadesJava;
-
-import java.util.Scanner; 
+package orientacaoObjeto;
 
 public class ObjetoFuncionario {
 

@@ -1,4 +1,4 @@
-package ExercicioPolimorfismo;
+package polimorfismo;
 
 public class TestePoliformismo {
 	public static void main(String[] args) {

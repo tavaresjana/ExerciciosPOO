@@ -1,4 +1,4 @@
-package ExercicioHeranca;
+package heranca;
 
 public class AnimalCachorro extends HerancaAnimal {
 

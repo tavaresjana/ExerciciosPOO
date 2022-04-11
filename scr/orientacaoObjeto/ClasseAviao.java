@@ -1,6 +1,4 @@
-package AtividadesJava;
-
-import java.util.Random;
+package orientacaoObjeto;
 
 public class ClasseAviao {
 	// ATRIBUTOS -> CARACTERÍSTICAS
